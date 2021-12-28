@@ -1,0 +1,15 @@
+title: Pokemon Images Classifier
+description: Classify Pokemon images using deep learning
+about:
+
+
+  This is a Pokemon Images Classifier using Deep Learning built on top of Pytorch.
+
+
+code:
+
+sampleImages:
+  - name: pikachu
+    url: https://image11.m1905.cn/uploadfile/2019/ss/0409/20190409054502756.jpeg
+  - name: Arbok
+    url: http://inews.gtimg.com/newsapp_match/0/4046625908/0.jpg
