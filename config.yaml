@@ -6,7 +6,7 @@ about:
   This is a Pokemon Images Classifier using Deep Learning built on top of Pytorch.
 
 
-code:
+code: https://github.com/Amamiya00/PokemonClassifier
 
 sampleImages:
   - name: pikachu
